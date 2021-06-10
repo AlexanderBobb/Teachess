@@ -1,0 +1,39 @@
+#links:link,
+a:visited {
+    background-color: grey;
+    height: 75px;
+    width: 210px;
+    color: white;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 40%;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: large;
+}
+
+#links:hover,
+a:active {
+    background-color: lightblue;
+}
+
+.possLink {
+    background-color: #00141b;
+    margin-top: 17%;
+    font-family: Palatino;
+}
+
+.LearnTitle {
+    /* color: lightblue;
+    font-size: 90px;
+    position: absolute;
+    left: 10px;
+    top: 0px; */
+    color: teal;
+    font-size: 30px;
+    position: absolute;
+    left: 10px;
+    top: 0px;
+}
